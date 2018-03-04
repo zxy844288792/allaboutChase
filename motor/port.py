@@ -9,6 +9,7 @@ IN2 = 22
 EN2 = 2
 IN3 = 4
 IN4 = 3
+BUTTON = 10
 
 def port_init():
 	GPIO.setmode(GPIO.BCM)
@@ -20,6 +21,7 @@ def port_init():
 	GPIO.setup(EN2, GPIO.OUT)
 	GPIO.setup(IN3, GPIO.OUT)
 	GPIO.setup(IN4, GPIO.OUT)
+	GPIO.setup(BUTTON, GPIO.IN)
 
 	GPIO.output(TRIG, False)
 	GPIO.output(IN1, True)
@@ -30,5 +32,8 @@ def port_init():
 	left.start(0)
 	right = GPIO.PWM(EN2,100)
 	right.start(0)
-	return (left,right)
+	running = 1
+	old = 1
+	return (left,right,running,old)
+	
 	
