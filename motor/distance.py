@@ -23,6 +23,8 @@ def GetFrontDist():
 	return distance
 
 def GetFrontDist2():
+	thresh = 1000
+	counter = 0
 	pulse_start = 0
 	pulse_end = 0
 	GPIO.output(TRIG,False)
@@ -32,7 +34,11 @@ def GetFrontDist2():
 	GPIO.output(TRIG,False)
 	pulse_start = time.time()
 	while GPIO.input(ECHO) == 0:
-	    pulse_start = time.time()
+		if(counter < 1000):
+			pulse_start = time.time()
+			counter += 1
+		else:
+			return 100
 	while GPIO.input(ECHO) == 1:
 	    pulse_end = time.time()
 	    
@@ -42,3 +48,5 @@ def GetFrontDist2():
 	distance = pulse_duration * 17150 
 	#print("distance: ",distance)
 	return distance
+
+
