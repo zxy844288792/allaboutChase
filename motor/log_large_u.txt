@@ -1,0 +1,777 @@
+loaded camera and dist coeff.
+set up pi cam
+Running statue: 1
+u: %.8f 4.5999884605407715
+u: %.8f 4.644966125488281
+u: %.8f 4.739010334014893
+u: %.8f 4.644966125488281
+u: %.8f 4.555010795593262
+u: %.8f 4.616343975067139
+u: %.8f 5.1642537117004395
+u: %.8f 4.689943790435791
+u: %.8f 4.6408772468566895
+u: %.8f 4.632699489593506
+u: %.8f 4.632699489593506
+u: %.8f 5.021142959594727
+u: %.8f 5.131542682647705
+u: %.8f 4.955720901489258
+u: %.8f 6.268250942230225
+u: %.8f 10.80690622329712
+tracking lost
+u: %.8f 10.847795009613037
+tracking lost
+u: %.8f 5.454564094543457
+u: %.8f 5.875718593597412
+u: %.8f 5.8470964431762695
+u: %.8f 5.900251865386963
+u: %.8f 5.748963356018066
+u: %.8f 5.389142036437988
+u: %.8f 4.996609687805176
+u: %.8f 5.012965202331543
+u: %.8f 4.653143882751465
+u: %.8f 4.5999884605407715
+u: %.8f 5.004787445068359
+u: %.8f 4.661321640014648
+u: %.8f 5.057942867279053
+u: %.8f 7.875180244445801
+tracking lost
+u: %.8f 5.156075954437256
+u: %.8f 5.147898197174072
+u: %.8f 5.135631561279297
+u: %.8f 5.115187168121338
+u: %.8f 5.450475215911865
+u: %.8f 6.366384029388428
+u: %.8f 7.306826114654541
+tracking lost
+u: %.8f 8.672511577606201
+tracking lost
+u: %.8f 8.885133266448975
+tracking lost
+u: %.8f 12.74503469467163
+tracking lost
+u: %.8f 8.94237756729126
+tracking lost
+u: %.8f 11.686015129089355
+tracking lost
+u: %.8f 6.807982921600342
+u: %.8f 3750.041437149048
+tracking lost
+u: %.8f 4.052078723907471
+u: %.8f 10.009574890136719
+tracking lost
+u: %.8f 6.23553991317749
+u: %.8f 7.143270969390869
+tracking lost
+u: %.8f 73.8206148147583
+tracking lost
+u: %.8f 3411.903440952301
+tracking lost
+u: %.8f 14.809918403625488
+tracking lost
+u: %.8f 18.47355365753174
+tracking lost
+u: %.8f 21.658790111541748
+tracking lost
+u: %.8f 24.705004692077637
+tracking lost
+u: %.8f 26.925265789031982
+tracking lost
+u: %.8f 28.53628396987915
+tracking lost
+u: %.8f 29.427659511566162
+tracking lost
+u: %.8f 30.965077877044678
+tracking lost
+u: %.8f 31.668365001678467
+tracking lost
+u: %.8f 32.97271728515625
+tracking lost
+u: %.8f 32.42889642715454
+tracking lost
+u: %.8f 32.756006717681885
+tracking lost
+u: %.8f 32.49431848526001
+tracking lost
+u: %.8f 32.56382942199707
+tracking lost
+u: %.8f 32.6006293296814
+tracking lost
+u: %.8f 32.73965120315552
+tracking lost
+u: %.8f 32.30623006820679
+tracking lost
+u: %.8f 32.60880708694458
+tracking lost
+u: %.8f 31.823742389678955
+tracking lost
+u: %.8f 32.01183080673218
+tracking lost
+u: %.8f 32.28578567504883
+tracking lost
+u: %.8f 31.74196481704712
+tracking lost
+u: %.8f 31.827831268310547
+tracking lost
+u: %.8f 31.827831268310547
+tracking lost
+u: %.8f 31.549787521362305
+tracking lost
+u: %.8f 31.508898735046387
+tracking lost
+u: %.8f 31.61112070083618
+tracking lost
+u: %.8f 31.92596435546875
+tracking lost
+u: %.8f 32.01591968536377
+tracking lost
+u: %.8f 32.02409744262695
+tracking lost
+u: %.8f 31.81556463241577
+tracking lost
+u: %.8f 31.852364540100098
+tracking lost
+u: %.8f 31.619298458099365
+tracking lost
+u: %.8f 32.07725286483765
+tracking lost
+u: %.8f 32.572007179260254
+tracking lost
+u: %.8f 32.63334035873413
+tracking lost
+u: %.8f 32.208096981048584
+tracking lost
+u: %.8f 32.26943016052246
+tracking lost
+u: %.8f 32.33076333999634
+tracking lost
+u: %.8f 32.40845203399658
+tracking lost
+u: %.8f 33.31618309020996
+tracking lost
+u: %.8f 34.90266799926758
+tracking lost
+u: %.8f 35.67955493927002
+tracking lost
+u: %.8f 37.15972900390625
+tracking lost
+u: %.8f 40.038299560546875
+tracking lost
+u: %.8f 111.34834289550781
+tracking lost
+u: %.8f 114.97926712036133
+tracking lost
+u: %.8f 48.03205728530884
+tracking lost
+u: %.8f 51.94511413574219
+tracking lost
+u: %.8f 52.938711643218994
+tracking lost
+u: %.8f 55.29799461364746
+tracking lost
+u: %.8f 57.174789905548096
+tracking lost
+u: %.8f 59.27647352218628
+tracking lost
+u: %.8f 60.16784906387329
+tracking lost
+u: %.8f 60.81798076629639
+tracking lost
+u: %.8f 61.14509105682373
+tracking lost
+u: %.8f 62.478065490722656
+tracking lost
+u: %.8f 59.08838510513306
+tracking lost
+u: %.8f 85.21223068237305
+tracking lost
+u: %.8f 62.837886810302734
+tracking lost
+u: %.8f 61.92197799682617
+tracking lost
+u: %.8f 62.06917762756348
+tracking lost
+u: %.8f 61.76251173019409
+tracking lost
+u: %.8f 62.1059775352478
+tracking lost
+u: %.8f 62.68659830093384
+tracking lost
+u: %.8f 62.58437633514404
+tracking lost
+u: %.8f 62.114155292510986
+tracking lost
+u: %.8f 62.563931941986084
+tracking lost
+u: %.8f 62.02828884124756
+tracking lost
+u: %.8f 61.97922229766846
+tracking lost
+u: %.8f 61.94242238998413
+tracking lost
+u: %.8f 61.53762340545654
+tracking lost
+u: %.8f 61.926066875457764
+tracking lost
+u: %.8f 61.34953498840332
+tracking lost
+u: %.8f 61.19415760040283
+tracking lost
+u: %.8f 61.48037910461426
+tracking lost
+u: %.8f 61.402690410614014
+tracking lost
+u: %.8f 60.71575880050659
+tracking lost
+u: %.8f 61.1614465713501
+tracking lost
+u: %.8f 61.5090012550354
+tracking lost
+u: %.8f 62.34722137451172
+tracking lost
+u: %.8f 61.61940097808838
+tracking lost
+u: %.8f 61.82384490966797
+tracking lost
+u: %.8f 62.03237771987915
+tracking lost
+u: %.8f 64.33850526809692
+tracking lost
+u: %.8f 75.75056552886963
+tracking lost
+u: %.8f 68.81173849105835
+tracking lost
+u: %.8f 69.36782598495483
+tracking lost
+u: %.8f 71.66986465454102
+tracking lost
+u: %.8f 73.81652593612671
+tracking lost
+u: %.8f 76.43749713897705
+tracking lost
+u: %.8f 80.85348606109619
+tracking lost
+u: %.8f 83.0410361289978
+tracking lost
+u: %.8f 86.96635961532593
+tracking lost
+u: %.8f 89.46875333786011
+tracking lost
+u: %.8f 92.42910146713257
+tracking lost
+u: %.8f 93.59852075576782
+tracking lost
+u: %.8f 93.45541000366211
+tracking lost
+u: %.8f 92.92794466018677
+tracking lost
+u: %.8f 93.00563335418701
+tracking lost
+u: %.8f 93.08741092681885
+tracking lost
+u: %.8f 93.39407682418823
+tracking lost
+u: %.8f 93.26732158660889
+tracking lost
+u: %.8f 92.79710054397583
+tracking lost
+u: %.8f 93.03425550460815
+tracking lost
+u: %.8f 91.713547706604
+tracking lost
+u: %.8f 92.03656911849976
+tracking lost
+u: %.8f 92.79301166534424
+tracking lost
+u: %.8f 91.72581434249878
+tracking lost
+u: %.8f 91.97114706039429
+tracking lost
+u: %.8f 91.42323732376099
+tracking lost
+u: %.8f 91.59497022628784
+tracking lost
+u: %.8f 91.58679246902466
+tracking lost
+u: %.8f 91.95888042449951
+tracking lost
+u: %.8f 92.10199117660522
+tracking lost
+u: %.8f 93.1610107421875
+tracking lost
+u: %.8f 92.78074502944946
+tracking lost
+u: %.8f 93.16918849945068
+tracking lost
+u: %.8f 92.79301166534424
+tracking lost
+u: %.8f 93.50447654724121
+tracking lost
+u: %.8f 83.23321342468262
+tracking lost
+u: %.8f 81.13152980804443
+tracking lost
+u: %.8f 82.96743631362915
+tracking lost
+u: %.8f 83.08192491531372
+tracking lost
+u: %.8f 95.93735933303833
+tracking lost
+u: %.8f 100.77041387557983
+tracking lost
+u: %.8f 106.88737630844116
+tracking lost
+u: %.8f 111.34834289550781
+tracking lost
+u: %.8f 114.38229084014893
+tracking lost
+u: %.8f 115.2900218963623
+tracking lost
+u: %.8f 116.835618019104
+tracking lost
+u: %.8f 117.00326204299927
+tracking lost
+u: %.8f 119.58334445953369
+tracking lost
+u: %.8f 118.47525835037231
+tracking lost
+u: %.8f 100.77450275421143
+tracking lost
+u: %.8f 103.79209518432617
+tracking lost
+u: %.8f 105.38266897201538
+tracking lost
+u: %.8f 105.35404682159424
+tracking lost
+u: %.8f 102.91298627853394
+tracking lost
+u: %.8f 104.18462753295898
+tracking lost
+u: %.8f 100.61503648757935
+tracking lost
+u: %.8f 103.40774059295654
+tracking lost
+u: %.8f 103.7798285484314
+tracking lost
+u: %.8f 105.09235858917236
+tracking lost
+u: %.8f 102.51227617263794
+tracking lost
+u: %.8f 102.1360993385315
+tracking lost
+u: %.8f 103.33414077758789
+tracking lost
+u: %.8f 102.9293417930603
+tracking lost
+u: %.8f 103.31369638442993
+tracking lost
+u: %.8f 102.57769823074341
+tracking lost
+u: %.8f 103.00703048706055
+tracking lost
+u: %.8f 103.80845069885254
+tracking lost
+u: %.8f 104.5730710029602
+tracking lost
+u: %.8f 106.29040002822876
+tracking lost
+u: %.8f 102.90889739990234
+tracking lost
+u: %.8f 103.80027294158936
+tracking lost
+u: %.8f 103.39547395706177
+tracking lost
+u: %.8f 104.9778699874878
+tracking lost
+u: %.8f 100.75405836105347
+tracking lost
+u: %.8f 104.11920547485352
+tracking lost
+u: %.8f 102.94569730758667
+tracking lost
+u: %.8f 105.44400215148926
+tracking lost
+u: %.8f 104.36044931411743
+tracking lost
+u: %.8f 104.56489324569702
+tracking lost
+u: %.8f 104.78160381317139
+tracking lost
+u: %.8f 114.84842300415039
+tracking lost
+u: %.8f 113.41322660446167
+tracking lost
+u: %.8f 132.70046710968018
+tracking lost
+u: %.8f 122.3719596862793
+tracking lost
+u: %.8f 122.35969305038452
+tracking lost
+u: %.8f 123.97071123123169
+tracking lost
+u: %.8f 127.67932415008545
+tracking lost
+u: %.8f 122.64591455459595
+tracking lost
+u: %.8f 124.79666471481323
+tracking lost
+u: %.8f 123.53729009628296
+tracking lost
+u: %.8f 131.63326978683472
+tracking lost
+u: %.8f 126.18279457092285
+tracking lost
+u: %.8f 125.2627968788147
+tracking lost
+u: %.8f 125.63897371292114
+tracking lost
+u: %.8f 125.59808492660522
+tracking lost
+u: %.8f 123.9666223526001
+tracking lost
+u: %.8f 124.94795322418213
+tracking lost
+u: %.8f 127.00057029724121
+tracking lost
+u: %.8f 124.9152421951294
+tracking lost
+u: %.8f 131.0485601425171
+tracking lost
+u: %.8f 122.74813652038574
+tracking lost
+u: %.8f 123.95026683807373
+tracking lost
+u: %.8f 124.87844228744507
+tracking lost
+u: %.8f 123.48004579544067
+tracking lost
+u: %.8f 123.93391132354736
+tracking lost
+u: %.8f 126.02332830429077
+tracking lost
+u: %.8f 123.67631196975708
+tracking lost
+u: %.8f 124.38368797302246
+tracking lost
+u: %.8f 151.5256643295288
+tracking lost
+u: %.8f 124.9152421951294
+tracking lost
+u: %.8f 124.78848695755005
+tracking lost
+u: %.8f 125.27915239334106
+tracking lost
+u: %.8f 124.05248880386353
+tracking lost
+u: %.8f 151.8813967704773
+tracking lost
+u: %.8f 124.29373264312744
+tracking lost
+u: %.8f 152.60512828826904
+tracking lost
+u: %.8f 141.6142225265503
+tracking lost
+u: %.8f 159.26591157913208
+tracking lost
+u: %.8f 162.6433253288269
+tracking lost
+u: %.8f 166.9284701347351
+tracking lost
+u: %.8f 170.66161632537842
+tracking lost
+u: %.8f 172.73058891296387
+tracking lost
+u: %.8f 178.17288637161255
+tracking lost
+u: %.8f 180.96967935562134
+tracking lost
+u: %.8f 182.3844313621521
+tracking lost
+u: %.8f 183.23900699615479
+tracking lost
+u: %.8f 183.9341163635254
+tracking lost
+u: %.8f 183.60291719436646
+tracking lost
+u: %.8f 180.71616888046265
+tracking lost
+u: %.8f 182.21678733825684
+tracking lost
+u: %.8f 183.1326961517334
+tracking lost
+u: %.8f 182.80967473983765
+tracking lost
+u: %.8f 182.36398696899414
+tracking lost
+u: %.8f 179.0969729423523
+tracking lost
+u: %.8f 183.0345630645752
+tracking lost
+u: %.8f 182.5847864151001
+tracking lost
+u: %.8f 171.61023616790771
+tracking lost
+u: %.8f 181.7302107810974
+tracking lost
+u: %.8f 170.83743810653687
+tracking lost
+u: %.8f 182.71154165267944
+tracking lost
+u: %.8f 181.54621124267578
+tracking lost
+u: %.8f 182.19634294509888
+tracking lost
+u: %.8f 173.04134368896484
+tracking lost
+u: %.8f 182.7401638031006
+tracking lost
+u: %.8f 186.30566596984863
+tracking lost
+u: %.8f 3445.0765132904053
+tracking lost
+u: %.8f 202.03558206558228
+tracking lost
+u: %.8f 3383.403956890106
+tracking lost
+u: %.8f 209.58365201950073
+tracking lost
+u: %.8f 214.04461860656738
+tracking lost
+u: %.8f 212.11875677108765
+tracking lost
+u: %.8f 209.80854034423828
+tracking lost
+u: %.8f 208.22614431381226
+tracking lost
+u: %.8f 206.566059589386
+tracking lost
+u: %.8f 212.45404481887817
+tracking lost
+u: %.8f 213.76657485961914
+tracking lost
+u: %.8f 213.74613046646118
+tracking lost
+u: %.8f 213.50897550582886
+tracking lost
+u: %.8f 212.99786567687988
+tracking lost
+u: %.8f 208.2506775856018
+tracking lost
+u: %.8f 205.79326152801514
+tracking lost
+u: %.8f 202.10509300231934
+tracking lost
+u: %.8f 204.45619821548462
+tracking lost
+u: %.8f 208.69227647781372
+tracking lost
+u: %.8f 201.74527168273926
+tracking lost
+u: %.8f 202.05193758010864
+tracking lost
+u: %.8f 202.38313674926758
+tracking lost
+u: %.8f 202.95149087905884
+tracking lost
+u: %.8f 202.4281144142151
+tracking lost
+u: %.8f 204.83237504959106
+tracking lost
+u: %.8f 213.06328773498535
+tracking lost
+u: %.8f 202.56304740905762
+tracking lost
+u: %.8f 202.89424657821655
+tracking lost
+u: %.8f 213.72568607330322
+tracking lost
+u: %.8f 204.5134425163269
+tracking lost
+u: %.8f 202.05602645874023
+tracking lost
+u: %.8f 215.41030406951904
+tracking lost
+u: %.8f 214.7356390953064
+tracking lost
+u: %.8f 217.71643161773682
+tracking lost
+u: %.8f 3411.05295419693
+tracking lost
+u: %.8f 250.3252387046814
+tracking lost
+u: %.8f 242.7526354789734
+tracking lost
+u: %.8f 374.7007489204407
+tracking lost
+u: %.8f 246.232271194458
+tracking lost
+u: %.8f 3383.0891132354736
+tracking lost
+u: %.8f 243.90569925308228
+tracking lost
+u: %.8f 243.6440110206604
+tracking lost
+u: %.8f 250.48470497131348
+tracking lost
+u: %.8f 244.41680908203125
+tracking lost
+u: %.8f 246.84560298919678
+tracking lost
+u: %.8f 242.7935242652893
+tracking lost
+u: %.8f 247.4752902984619
+tracking lost
+u: %.8f 244.940185546875
+tracking lost
+u: %.8f 241.57094955444336
+tracking lost
+u: %.8f 243.66036653518677
+tracking lost
+u: %.8f 245.02196311950684
+tracking lost
+u: %.8f 244.0406322479248
+tracking lost
+u: %.8f 242.32330322265625
+tracking lost
+u: %.8f 243.57450008392334
+tracking lost
+u: %.8f 3394.6606397628784
+tracking lost
+u: %.8f 243.93432140350342
+tracking lost
+u: %.8f 3384.246265888214
+tracking lost
+u: %.8f 252.50461101531982
+tracking lost
+u: %.8f 3399.2197394371033
+tracking lost
+u: %.8f 3401.256000995636
+tracking lost
+u: %.8f 3375.2098441123962
+tracking lost
+u: %.8f 3405.430746078491
+tracking lost
+u: %.8f 3405.4266571998596
+tracking lost
+u: %.8f 276.36730670928955
+tracking lost
+u: %.8f 278.125524520874
+tracking lost
+u: %.8f 279.89600896835327
+tracking lost
+u: %.8f 3405.933678150177
+tracking lost
+u: %.8f 3398.9457845687866
+tracking lost
+u: %.8f 284.8108410835266
+tracking lost
+u: %.8f 276.75575017929077
+tracking lost
+u: %.8f 276.5962839126587
+tracking lost
+u: %.8f 280.45618534088135
+tracking lost
+u: %.8f 293.6509966850281
+tracking lost
+u: %.8f 275.46366453170776
+tracking lost
+u: %.8f 280.75058460235596
+tracking lost
+u: %.8f 282.2880029678345
+tracking lost
+u: %.8f 278.80427837371826
+tracking lost
+u: %.8f 287.29279041290283
+tracking lost
+u: %.8f 292.690110206604
+tracking lost
+u: %.8f 3373.8768696784973
+tracking lost
+u: %.8f 3389.888918399811
+tracking lost
+u: %.8f 3383.6329340934753
+tracking lost
+u: %.8f 3380.893385410309
+tracking lost
+u: %.8f 308.32189321517944
+tracking lost
+u: %.8f 3401.648533344269
+tracking lost
+u: %.8f 264.2846703529358
+tracking lost
+u: %.8f 300.49986839294434
+tracking lost
+u: %.8f 306.22838735580444
+tracking lost
+u: %.8f 305.87674379348755
+tracking lost
+u: %.8f 305.82358837127686
+tracking lost
+u: %.8f 303.3089280128479
+tracking lost
+u: %.8f 309.17237997055054
+tracking lost
+u: %.8f 309.0906023979187
+tracking lost
+u: %.8f 3375.651443004608
+tracking lost
+u: %.8f 304.1471481323242
+tracking lost
+u: %.8f 304.98127937316895
+tracking lost
+u: %.8f 3414.405834674835
+tracking lost
+u: %.8f 3372.5030064582825
+tracking lost
+u: %.8f 3362.2358322143555
+tracking lost
+u: %.8f 308.4527373313904
+tracking lost
+u: %.8f 3368.1974172592163
+tracking lost
+u: %.8f 3373.770558834076
+tracking lost
+u: %.8f 3405.704700946808
+tracking lost
+u: %.8f 335.59471368789673
+tracking lost
+u: %.8f 313.1181478500366
+tracking lost
+u: %.8f 318.72808933258057
+tracking lost
+u: %.8f 337.47968673706055
+tracking lost
+u: %.8f 334.6092939376831
+tracking lost
+u: %.8f 334.1104507446289
+tracking lost
+u: %.8f 334.0654730796814
+tracking lost
+u: %.8f 374.3981719017029
+tracking lost
+u: %.8f 375.0932812690735
+tracking lost
+u: %.8f 308.92704725265503
+tracking lost
+u: %.8f 3398.2261419296265
+tracking lost
+u: %.8f 3386.5646600723267
+tracking lost
+u: %.8f 341.26598834991455
+tracking lost
+u: %.8f 3369.914746284485
+tracking lost
+u: %.8f 3396.6805458068848
+tracking lost
+u: %.8f 3387.2556805610657
+tracking lost
+u: %.8f 3353.4897208213806
+tracking lost
+u: %.8f 3384.998619556427
+tracking lost
+u: %.8f 3395.5601930618286
+tracking lost
+u: %.8f 3404.50257062912
+tracking lost
+u: %.8f 307.08296298980713
+tracking lost
+Running statue: 0

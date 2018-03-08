@@ -1,0 +1,609 @@
+loaded camera and dist coeff.
+set up pi cam
+Running statue: 1
+u: 3.46736908
+u: 3.49599123
+u: 3.57367992
+u: 3.44692469
+u: 3.55732441
+u: 3.56141329
+u: 3.67181301
+u: 3.65136862
+u: 3.64727974
+u: 3.71270180
+u: 3.39785814
+u: 3.72087955
+u: 3.58594656
+u: 3.34470272
+u: 3.25474739
+u: 3.32016945
+u: 3.43056917
+u: 3.92941236
+u: 3.72087955
+u: 3.85172367
+u: 4.11341190
+u: 4.27287817
+u: 4.34238911
+u: 4.04798985
+u: 4.83714342
+u: 4.96798754
+u: 4.70629930
+u: 5.13972044
+u: 5.04158735
+u: 5.12336493
+u: 5.07020950
+u: 5.78576326
+u: 5.27465343
+u: 5.37278652
+u: 5.98202944
+u: 5.76122999
+u: 6.44407272
+u: 6.37047291
+u: 6.95518255
+u: 7.20051527
+tracking lost
+u: 7.76478052
+tracking lost
+u: 8.30042362
+tracking lost
+u: 8.88922215
+tracking lost
+u: 9.18362141
+tracking lost
+u: 10.72103977
+tracking lost
+u: 10.77419519
+tracking lost
+u: 11.37117147
+tracking lost
+u: 12.03356981
+tracking lost
+u: 12.61419058
+tracking lost
+u: 13.51374388
+tracking lost
+u: 15.74218273
+tracking lost
+u: 16.34733677
+moving backward at speed 57 to correct error_z = -4
+u: 18.18324327
+moving backward at speed 58 to correct error_z = -3
+u: 19.70839500
+stop, tag: 0
+u: 21.21310234
+stop, tag: 0
+u: 22.93043137
+stop, tag: 0
+u: 24.30838346
+stop, tag: 0
+u: 26.03389025
+stop, tag: 0
+u: 26.58588886
+stop, tag: 0
+u: 27.46499777
+stop, tag: 0
+u: 28.40135098
+moving foward right at speed 61 to correct error_z=3 and angle 3.4187
+u: 29.80792522
+moving foward right at speed 61 to correct error_z=3 and angle 3.9715
+u: 31.16134405
+moving foward right at speed 62 to correct error_z=4 and angle 4.4917
+u: 30.88330030
+moving foward right at speed 62 to correct error_z=5 and angle 5.0051
+u: 30.83014488
+moving foward right at speed 62 to correct error_z=5 and angle 5.3392
+u: 31.67654276
+moving foward right at speed 62 to correct error_z=5 and angle 5.6047
+u: 30.58481216
+moving foward right at speed 62 to correct error_z=5 and angle 5.7392
+u: 30.55619001
+moving foward right at speed 62 to correct error_z=5 and angle 5.8074
+u: 31.43121004
+moving foward right at speed 62 to correct error_z=5 and angle 5.8468
+u: 31.98729753
+moving foward right at speed 62 to correct error_z=5 and angle 5.9372
+u: 31.55796528
+moving foward right at speed 63 to correct error_z=6 and angle 6.0592
+u: 31.56205416
+moving foward right at speed 63 to correct error_z=6 and angle 6.1467
+u: 31.52934313
+moving foward right at speed 63 to correct error_z=6 and angle 6.1467
+u: 31.51707649
+moving foward right at speed 63 to correct error_z=6 and angle 6.1467
+u: 31.49663210
+moving foward right at speed 63 to correct error_z=6 and angle 6.1467
+u: 31.55387640
+moving foward right at speed 63 to correct error_z=6 and angle 6.1467
+u: 31.54978752
+moving foward right at speed 63 to correct error_z=6 and angle 6.1467
+u: 31.57432079
+moving foward right at speed 63 to correct error_z=6 and angle 6.1467
+u: 31.48027658
+moving foward right at speed 63 to correct error_z=6 and angle 6.1467
+u: 113.48273754
+moving foward right at speed 63 to correct error_z=6 and angle 6.1932
+u: 3433.14516544
+moving foward right at speed 63 to correct error_z=6 and angle 6.5217
+u: 40.32860994
+moving foward right at speed 63 to correct error_z=7 and angle 7.9310
+u: 96.97593451
+moving foward right at speed 64 to correct error_z=9 and angle 9.6276
+u: 44.65055466
+moving foward right at speed 65 to correct error_z=11 and angle 11.4102
+u: 45.36610842
+moving foward right at speed 66 to correct error_z=12 and angle 12.6886
+u: 47.95027971
+moving foward right at speed 67 to correct error_z=14 and angle 14.4535
+u: 50.98831654
+moving foward right at speed 68 to correct error_z=16 and angle 16.5169
+u: 53.47435474
+moving foward right at speed 69 to correct error_z=18 and angle 18.6346
+u: 55.40021658
+moving foward right at speed 70 to correct error_z=20 and angle 20.4998
+u: 59.22331810
+moving foward right at speed 71 to correct error_z=22 and angle 22.7115
+u: 61.46811247
+moving foward right at speed 72 to correct error_z=24 and angle 24.8482
+u: 62.41673231
+moving foward right at speed 73 to correct error_z=26 and angle 26.9333
+u: 62.54348755
+moving foward right at speed 74 to correct error_z=28 and angle 28.0054
+u: 62.52713203
+moving foward right at speed 74 to correct error_z=28 and angle 28.5403
+u: 62.28997707
+moving foward right at speed 74 to correct error_z=28 and angle 28.5589
+u: 64.40392733
+moving foward right at speed 74 to correct error_z=28 and angle 28.5774
+u: 63.10775280
+moving foward right at speed 74 to correct error_z=28 and angle 28.6528
+u: 63.05050850
+moving foward right at speed 74 to correct error_z=28 and angle 28.7282
+u: 63.05050850
+moving foward right at speed 74 to correct error_z=28 and angle 28.8035
+u: 63.18953037
+moving foward right at speed 74 to correct error_z=28 and angle 28.8035
+u: 63.08321953
+moving foward right at speed 74 to correct error_z=28 and angle 28.8035
+u: 63.45121861
+moving foward right at speed 74 to correct error_z=28 and angle 28.8035
+u: 63.62295151
+moving foward right at speed 74 to correct error_z=28 and angle 28.8035
+u: 62.69068718
+moving foward right at speed 74 to correct error_z=28 and angle 28.8035
+u: 64.24037218
+moving foward right at speed 74 to correct error_z=28 and angle 28.8035
+u: 64.23219442
+moving foward right at speed 74 to correct error_z=28 and angle 28.8035
+u: 65.10721445
+moving foward right at speed 74 to correct error_z=29 and angle 29.1200
+u: 68.42738390
+moving foward right at speed 75 to correct error_z=30 and angle 30.0792
+u: 71.02382183
+moving foward right at speed 75 to correct error_z=31 and angle 31.4790
+u: 76.09403133
+moving foward right at speed 76 to correct error_z=33 and angle 33.3412
+u: 102.88845301
+moving foward right at speed 77 to correct error_z=35 and angle 35.5771
+u: 84.57436562
+moving foward right at speed 79 to correct error_z=38 and angle 38.2821
+u: 86.11178398
+moving foward right at speed 80 to correct error_z=41 and angle 41.1762
+u: 90.43781757
+moving foward right at speed 81 to correct error_z=43 and angle 43.8034
+u: 103.58356237
+moving foward right at speed 83 to correct error_z=46 and angle 46.7124
+u: 93.00972223
+moving foward right at speed 84 to correct error_z=48 and angle 48.6536
+u: 103.64489555
+moving foward right at speed 84 to correct error_z=49 and angle 49.8647
+u: 103.48134041
+moving foward right at speed 85 to correct error_z=50 and angle 50.2221
+u: 102.67992020
+moving foward right at speed 85 to correct error_z=50 and angle 50.6959
+u: 105.31315804
+moving foward right at speed 85 to correct error_z=51 and angle 51.1499
+u: 102.77805328
+moving foward right at speed 85 to correct error_z=51 and angle 51.0511
+u: 102.46320963
+moving foward right at speed 85 to correct error_z=50 and angle 50.9347
+u: 101.93574429
+moving foward right at speed 85 to correct error_z=50 and angle 50.8183
+u: 109.80683565
+moving foward right at speed 85 to correct error_z=50 and angle 50.9172
+u: 107.19404221
+moving foward right at speed 85 to correct error_z=50 and angle 50.9172
+u: 109.58194733
+moving foward right at speed 85 to correct error_z=50 and angle 50.9172
+u: 130.85638285
+moving foward right at speed 85 to correct error_z=51 and angle 51.3955
+u: 505.01331091
+moving foward right at speed 85 to correct error_z=51 and angle 51.3955
+u: 504.06469107
+moving foward right at speed 85 to correct error_z=51 and angle 51.3955
+u: 101.50641203
+moving foward right at speed 85 to correct error_z=50 and angle 50.9172
+u: 117.17090607
+moving foward right at speed 85 to correct error_z=50 and angle 50.9172
+u: 100.77450275
+moving foward right at speed 85 to correct error_z=50 and angle 50.9172
+u: 99.83406067
+moving foward right at speed 85 to correct error_z=51 and angle 51.3955
+u: 105.88968992
+moving foward right at speed 85 to correct error_z=51 and angle 51.8738
+u: 141.44657850
+moving foward right at speed 86 to correct error_z=52 and angle 52.3521
+u: 111.49145365
+moving foward right at speed 85 to correct error_z=51 and angle 51.8738
+u: 99.18801785
+moving foward right at speed 85 to correct error_z=51 and angle 51.3955
+u: 138.51894140
+moving foward right at speed 85 to correct error_z=50 and angle 50.9172
+u: 142.92675257
+moving foward right at speed 85 to correct error_z=50 and angle 50.9172
+u: 138.16729784
+moving foward right at speed 85 to correct error_z=51 and angle 51.3955
+u: 116.16504192
+moving foward right at speed 85 to correct error_z=51 and angle 51.8738
+u: 96.27673626
+moving foward right at speed 86 to correct error_z=52 and angle 52.6573
+u: 100.16934872
+moving foward right at speed 86 to correct error_z=53 and angle 53.5878
+u: 101.91938877
+moving foward right at speed 87 to correct error_z=54 and angle 54.8505
+u: 105.48897982
+moving foward right at speed 88 to correct error_z=57 and angle 57.0265
+u: 107.67652988
+moving foward right at speed 89 to correct error_z=59 and angle 59.0027
+u: 110.82905531
+moving foward right at speed 90 to correct error_z=61 and angle 61.8683
+u: 117.16272831
+moving foward right at speed 92 to correct error_z=64 and angle 64.4709
+u: 119.98814344
+moving foward right at speed 93 to correct error_z=67 and angle 67.2939
+u: 122.85035849
+moving foward right at speed 94 to correct error_z=69 and angle 69.5452
+u: 136.04108095
+moving foward right at speed 95 to correct error_z=71 and angle 71.3101
+u: 124.67808723
+tracking lost
+u: 123.36146832
+moving foward right at speed 95 to correct error_z=71 and angle 71.9599
+u: 123.07933569
+moving foward right at speed 96 to correct error_z=72 and angle 72.8873
+u: 139.99093771
+moving foward right at speed 96 to correct error_z=72 and angle 72.8381
+u: 124.66990948
+moving foward right at speed 96 to correct error_z=73 and angle 73.2583
+u: 122.48644829
+moving foward right at speed 96 to correct error_z=72 and angle 72.7511
+u: 135.63628197
+moving foward right at speed 96 to correct error_z=72 and angle 72.7511
+u: 124.69035387
+moving foward right at speed 96 to correct error_z=72 and angle 72.7511
+u: 121.82813883
+moving foward right at speed 96 to correct error_z=72 and angle 72.7511
+u: 122.54778147
+moving foward right at speed 96 to correct error_z=72 and angle 72.7511
+u: 136.40499115
+moving foward right at speed 96 to correct error_z=72 and angle 72.7511
+u: 135.13743877
+tracking lost
+u: 126.58350468
+moving foward right at speed 97 to correct error_z=74 and angle 74.8873
+u: 136.45405769
+moving foward right at speed 98 to correct error_z=77 and angle 77.7972
+u: 125.09924173
+moving foward right at speed 100 to correct error_z=80 and angle 80.7072
+u: 122.70724773
+moving foward right at speed 100 to correct error_z=82 and angle 82.5694
+u: 136.32730246
+moving foward right at speed 100 to correct error_z=84 and angle 84.5310
+u: 136.80161238
+moving foward right at speed 100 to correct error_z=87 and angle 87.7115
+u: 138.60480785
+moving foward right at speed 100 to correct error_z=90 and angle 90.3174
+u: 152.52335072
+moving foward right at speed 100 to correct error_z=91 and angle 91.6344
+u: 137.14507818
+moving foward right at speed 100 to correct error_z=92 and angle 92.9529
+u: 139.26311731
+moving foward right at speed 100 to correct error_z=95 and angle 95.3939
+u: 138.07734251
+moving foward right at speed 100 to correct error_z=98 and angle 98.8230
+u: 139.40213919
+moving foward right at speed 100 to correct error_z=101 and angle 101.0439
+u: 136.85067892
+moving foward right at speed 100 to correct error_z=100 and angle 100.5649
+u: 137.45992184
+moving foward right at speed 100 to correct error_z=99 and angle 99.5138
+u: 138.07734251
+tracking lost
+u: 150.04957914
+moving foward right at speed 100 to correct error_z=98 and angle 98.3805
+u: 150.92868805
+moving foward right at speed 100 to correct error_z=99 and angle 99.4440
+u: 136.87112331
+tracking lost
+u: 135.98792553
+moving foward right at speed 100 to correct error_z=99 and angle 99.3742
+u: 151.82824135
+tracking lost
+u: 150.92051029
+moving foward right at speed 100 to correct error_z=99 and angle 99.4440
+u: 150.50753355
+moving foward right at speed 100 to correct error_z=99 and angle 99.4440
+u: 150.56886673
+moving foward right at speed 100 to correct error_z=100 and angle 100.5773
+u: 148.93331528
+moving foward right at speed 100 to correct error_z=101 and angle 101.6409
+u: 175.82178116
+moving foward right at speed 100 to correct error_z=102 and angle 102.0292
+u: 175.83813667
+tracking lost
+u: 146.65989876
+tracking lost
+u: 504.83748913
+tracking lost
+u: 206.26348257
+tracking lost
+u: 159.21684504
+tracking lost
+u: 166.17202759
+moving foward right at speed 100 to correct error_z=103 and angle 103.7483
+u: 164.05807734
+moving foward right at speed 100 to correct error_z=105 and angle 105.1246
+u: 168.03246737
+moving foward right at speed 100 to correct error_z=108 and angle 108.1177
+u: 169.89699602
+moving foward right at speed 100 to correct error_z=109 and angle 109.8044
+u: 172.95547724
+moving foward right at speed 100 to correct error_z=113 and angle 113.5167
+u: 178.49181890
+tracking lost
+u: 149.53029156
+moving foward right at speed 100 to correct error_z=117 and angle 117.1674
+u: 181.75883293
+moving foward right at speed 100 to correct error_z=122 and angle 122.0580
+u: 184.62104797
+moving foward right at speed 100 to correct error_z=125 and angle 125.7334
+u: 184.83775854
+moving foward right at speed 100 to correct error_z=125 and angle 125.5928
+u: 184.69873667
+moving foward right at speed 100 to correct error_z=123 and angle 123.3418
+u: 185.11989117
+moving foward right at speed 100 to correct error_z=120 and angle 120.6231
+u: 184.41251516
+moving foward right at speed 100 to correct error_z=119 and angle 119.7767
+u: 183.36576223
+moving foward right at speed 100 to correct error_z=119 and angle 119.7767
+u: 182.94460773
+moving foward right at speed 100 to correct error_z=119 and angle 119.7767
+u: 182.64611959
+moving foward right at speed 100 to correct error_z=119 and angle 119.7767
+u: 185.01766920
+moving foward right at speed 100 to correct error_z=119 and angle 119.7767
+u: 183.77465010
+tracking lost
+u: 182.55616426
+tracking lost
+u: 182.43349791
+moving foward right at speed 100 to correct error_z=119 and angle 119.7767
+u: 185.20166874
+tracking lost
+u: 184.68238115
+moving foward right at speed 100 to correct error_z=119 and angle 119.7767
+u: 184.84593630
+moving foward right at speed 100 to correct error_z=119 and angle 119.7767
+u: 188.66086006
+tracking lost
+u: 190.06743431
+tracking lost
+u: 193.25267076
+tracking lost
+u: 189.12699223
+tracking lost
+u: 190.80752134
+tracking lost
+u: 203.14775705
+tracking lost
+u: 202.34224796
+tracking lost
+u: 205.47024012
+tracking lost
+u: 169.23868656
+tracking lost
+u: 167.64811277
+tracking lost
+u: 167.12473631
+tracking lost
+u: 166.87531471
+tracking lost
+u: 167.31282473
+tracking lost
+u: 174.97947216
+tracking lost
+u: 200.71487427
+tracking lost
+u: 504.02380228
+tracking lost
+u: 203.33584547
+tracking lost
+u: 203.59344482
+tracking lost
+u: 203.31131220
+tracking lost
+u: 206.24303818
+tracking lost
+u: 202.33407021
+tracking lost
+u: 203.44624519
+moving foward right at speed 100 to correct error_z=119 and angle 119.7767
+u: 204.20677662
+tracking lost
+u: 506.15001917
+tracking lost
+u: 503.55767012
+tracking lost
+u: 505.70024252
+tracking lost
+u: 206.62330389
+tracking lost
+u: 217.74505377
+tracking lost
+u: 240.35246372
+tracking lost
+u: 503.61900330
+tracking lost
+u: 505.30362129
+tracking lost
+u: 505.81473112
+tracking lost
+u: 220.15340328
+tracking lost
+u: 504.90700006
+tracking lost
+u: 504.56353426
+tracking lost
+u: 504.02380228
+moving foward right at speed 100 to correct error_z=119 and angle 119.7767
+u: 261.55738831
+moving foward right at speed 100 to correct error_z=119 and angle 119.7767
+u: 506.58752918
+tracking lost
+u: 504.50628996
+tracking lost
+u: 504.84566689
+tracking lost
+u: 505.06646633
+tracking lost
+u: 504.92744446
+tracking lost
+u: 505.85153103
+tracking lost
+u: 504.95197773
+tracking lost
+u: 247.13591337
+tracking lost
+u: 245.41449547
+tracking lost
+u: 505.25455475
+tracking lost
+u: 504.42860126
+tracking lost
+u: 506.52619600
+tracking lost
+u: 266.17782116
+tracking lost
+u: 506.15819693
+tracking lost
+u: 506.59161806
+tracking lost
+u: 288.14327717
+tracking lost
+u: 505.83926439
+tracking lost
+u: 504.43677902
+tracking lost
+u: 506.18681908
+tracking lost
+u: 506.14184141
+tracking lost
+u: 506.08868599
+tracking lost
+u: 506.24815226
+tracking lost
+u: 504.44086790
+tracking lost
+u: 504.51855659
+tracking lost
+u: 508.27214718
+tracking lost
+u: 504.80886698
+tracking lost
+u: 505.30362129
+tracking lost
+u: 505.28317690
+tracking lost
+u: 507.05366135
+tracking lost
+u: 3403.21048498
+tracking lost
+u: 504.87837791
+tracking lost
+u: 507.76103735
+tracking lost
+u: 245.82338333
+tracking lost
+u: 506.99641705
+tracking lost
+u: 289.41082954
+tracking lost
+u: 507.90005922
+tracking lost
+u: 505.58984280
+tracking lost
+u: 506.11321926
+tracking lost
+u: 504.00744677
+tracking lost
+u: 507.37259388
+tracking lost
+u: 505.20548820
+tracking lost
+u: 505.25864363
+tracking lost
+u: 503.99518013
+tracking lost
+u: 504.88246679
+tracking lost
+u: 504.04833555
+tracking lost
+u: 505.25046587
+tracking lost
+u: 502.71127224
+tracking lost
+u: 505.32406569
+tracking lost
+u: 503.50860357
+tracking lost
+u: 504.47357893
+tracking lost
+u: 504.44086790
+tracking lost
+u: 507.49117136
+tracking lost
+u: 504.48175669
+tracking lost
+u: 504.48993444
+tracking lost
+u: 505.38539886
+tracking lost
+u: 505.00104427
+tracking lost
+u: 504.39589024
+tracking lost
+u: 504.10149097
+tracking lost
+u: 505.79019785
+tracking lost
+u: 504.57988977
+tracking lost
+u: 504.01971340
+tracking lost
+u: 504.44086790
+tracking lost
+u: 504.47357893
+tracking lost
+u: 505.36904335
+tracking lost
+u: 504.52673435
+tracking lost
+u: 504.07286882
+tracking lost
+u: 503.55767012
+tracking lost
+u: 504.47357893
+tracking lost
+u: 504.07695770
+tracking lost
+Running statue: 0

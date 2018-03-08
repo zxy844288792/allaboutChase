@@ -1,0 +1,785 @@
+loaded camera and dist coeff.
+set up pi cam
+Running statue: 1
+p: -11.80013775 2.50510929 24.03393844
+moving foward left at speed 64 to correct error_z=9 and angle 9.0339
+57
+p: -11.80013775 2.50510929 24.03393844
+moving foward left at speed 64 to correct error_z=9 and angle 9.0339
+57
+p: -11.87550062 2.55371661 24.19475411
+moving foward left at speed 64 to correct error_z=9 and angle 9.1948
+57
+p: -11.82525869 2.52131173 24.08754364
+moving foward left at speed 64 to correct error_z=9 and angle 9.0875
+57
+p: -11.82525869 2.52131173 24.08754364
+moving foward left at speed 64 to correct error_z=9 and angle 9.0875
+57
+p: -11.80013774 2.50510928 24.03393842
+moving foward left at speed 64 to correct error_z=9 and angle 9.0339
+57
+p: -11.80013774 2.50510928 24.03393842
+moving foward left at speed 64 to correct error_z=9 and angle 9.0339
+57
+p: -11.82525869 2.52131173 24.08754364
+moving foward left at speed 64 to correct error_z=9 and angle 9.0875
+57
+p: -11.85037965 2.53751417 24.14114886
+moving foward left at speed 64 to correct error_z=9 and angle 9.1411
+57
+p: -11.85037965 2.53751417 24.14114886
+moving foward left at speed 64 to correct error_z=9 and angle 9.1411
+57
+p: -11.81098601 2.52133848 24.07853476
+moving foward left at speed 64 to correct error_z=9 and angle 9.0785
+57
+p: -11.78586505 2.50513604 24.02492954
+moving foward left at speed 64 to correct error_z=9 and angle 9.0249
+57
+p: -11.77159236 2.50516280 24.01592066
+moving foward left at speed 64 to correct error_z=9 and angle 9.0159
+57
+p: -11.77159236 2.50516280 24.01592066
+moving foward left at speed 64 to correct error_z=9 and angle 9.0159
+57
+p: -11.79671332 2.52136524 24.06952589
+moving foward left at speed 64 to correct error_z=9 and angle 9.0695
+57
+p: -11.79671332 2.52136524 24.06952589
+moving foward left at speed 64 to correct error_z=9 and angle 9.0695
+57
+p: -11.83610696 2.53754092 24.13213998
+moving foward left at speed 64 to correct error_z=9 and angle 9.1321
+57
+p: -11.79671332 2.52136524 24.06952589
+moving foward left at speed 64 to correct error_z=9 and angle 9.0695
+57
+p: -11.83610696 2.53754092 24.13213998
+moving foward left at speed 64 to correct error_z=9 and angle 9.1321
+57
+p: -11.83610696 2.53754092 24.13213998
+moving foward left at speed 64 to correct error_z=9 and angle 9.1321
+57
+p: -11.87550061 2.55371661 24.19475408
+moving foward left at speed 64 to correct error_z=9 and angle 9.1948
+57
+p: -11.87550061 2.55371661 24.19475408
+moving foward left at speed 64 to correct error_z=9 and angle 9.1948
+57
+p: -11.87550061 2.55371661 24.19475408
+moving foward left at speed 64 to correct error_z=9 and angle 9.1948
+57
+p: -11.87550061 2.55371661 24.19475408
+moving foward left at speed 64 to correct error_z=9 and angle 9.1948
+57
+p: -11.87550061 2.55371661 24.19475408
+moving foward left at speed 64 to correct error_z=9 and angle 9.1948
+57
+p: -11.81530025 2.53927530 24.06423432
+moving foward left at speed 64 to correct error_z=9 and angle 9.0642
+57
+p: -11.81530025 2.53927530 24.06423432
+moving foward left at speed 64 to correct error_z=9 and angle 9.0642
+57
+p: -11.81530025 2.53927530 24.06423432
+moving foward left at speed 64 to correct error_z=9 and angle 9.0642
+57
+p: -11.87550061 2.55371661 24.19475408
+moving foward left at speed 64 to correct error_z=9 and angle 9.1948
+57
+p: -11.82754331 2.55184339 24.18311388
+moving foward left at speed 64 to correct error_z=9 and angle 9.1831
+58
+p: -11.76424307 2.56244075 24.21752155
+moving foward left at speed 64 to correct error_z=9 and angle 9.2175
+58
+p: -11.71767035 2.59085465 24.29753109
+moving foward left at speed 64 to correct error_z=9 and angle 9.2975
+58
+p: -11.59614674 2.59507631 24.17322793
+moving foward left at speed 64 to correct error_z=9 and angle 9.1732
+58
+p: -11.42679026 2.58549970 23.98918482
+moving foward left at speed 64 to correct error_z=8 and angle 8.9892
+58
+p: -11.09997323 2.55511262 23.72322742
+moving foward left at speed 64 to correct error_z=8 and angle 8.7232
+58
+p: -10.72729570 2.54591654 23.64586842
+moving foward left at speed 64 to correct error_z=8 and angle 8.6459
+58
+p: -10.24191724 2.54514235 23.58183406
+moving foward left at speed 64 to correct error_z=8 and angle 8.5818
+58
+p: -9.62026065 2.54141574 23.40887117
+moving foward left at speed 64 to correct error_z=8 and angle 8.4089
+59
+p: -8.92645861 2.54324931 23.27769069
+moving foward left at speed 64 to correct error_z=8 and angle 8.2777
+59
+p: -8.17897130 2.52443858 23.13480100
+moving foward left at speed 64 to correct error_z=8 and angle 8.1348
+60
+p: -7.47557651 2.51041447 23.03780260
+moving foward left at speed 64 to correct error_z=8 and angle 8.0378
+60
+p: -6.86432298 2.51991142 23.04934355
+moving foward left at speed 64 to correct error_z=8 and angle 8.0493
+61
+p: -6.26580437 2.53214829 23.05055591
+moving foward left at speed 64 to correct error_z=8 and angle 8.0506
+61
+p: -5.74613826 2.55283122 23.14301703
+moving foward left at speed 64 to correct error_z=8 and angle 8.1430
+62
+p: -5.34990665 2.54387593 23.16875700
+moving foward left at speed 64 to correct error_z=8 and angle 8.1688
+62
+p: -5.09295940 2.55356553 23.14134426
+moving foward left at speed 64 to correct error_z=8 and angle 8.1413
+62
+p: -4.86777452 2.56212074 23.15251075
+moving foward left at speed 64 to correct error_z=8 and angle 8.1525
+62
+p: -4.61154757 2.57854414 23.19365597
+moving foward left at speed 64 to correct error_z=8 and angle 8.1937
+62
+p: -4.41254559 2.57418535 23.19405085
+moving foward left at speed 64 to correct error_z=8 and angle 8.1941
+62
+p: -4.22127992 2.58074924 23.27062838
+moving foward left at speed 64 to correct error_z=8 and angle 8.2706
+63
+p: -4.05392299 2.58521786 23.26690165
+moving foward left at speed 64 to correct error_z=8 and angle 8.2669
+63
+p: -3.91101193 2.60883245 23.38364413
+moving foward left at speed 64 to correct error_z=8 and angle 8.3836
+63
+p: -3.88266835 2.61537245 23.39372563
+moving foward left at speed 64 to correct error_z=8 and angle 8.3937
+63
+p: -3.89974568 2.62237023 23.40933284
+moving foward left at speed 64 to correct error_z=8 and angle 8.4093
+63
+p: -3.96005882 2.60158506 23.32132842
+moving foward left at speed 64 to correct error_z=8 and angle 8.3213
+63
+p: -4.05323989 2.59439130 23.29900134
+moving foward left at speed 64 to correct error_z=8 and angle 8.2990
+63
+p: -4.13347175 2.58639826 23.26522797
+moving foward left at speed 64 to correct error_z=8 and angle 8.2652
+63
+p: -4.16633969 2.59998966 23.33090531
+moving foward left at speed 64 to correct error_z=8 and angle 8.3309
+63
+p: -4.16081692 2.59456787 23.32317175
+moving foward left at speed 64 to correct error_z=8 and angle 8.3232
+63
+p: -4.16081692 2.59456787 23.32317175
+moving foward left at speed 64 to correct error_z=8 and angle 8.3232
+63
+p: -4.16081692 2.59456787 23.32317175
+moving foward left at speed 64 to correct error_z=8 and angle 8.3232
+63
+p: -4.16633969 2.59998966 23.33090531
+moving foward left at speed 64 to correct error_z=8 and angle 8.3309
+63
+p: -4.16633969 2.59998966 23.33090531
+moving foward left at speed 64 to correct error_z=8 and angle 8.3309
+63
+p: -4.16633969 2.59998966 23.33090531
+moving foward left at speed 64 to correct error_z=8 and angle 8.3309
+63
+p: -4.16633969 2.59998966 23.33090531
+moving foward left at speed 64 to correct error_z=8 and angle 8.3309
+63
+p: -4.16515701 2.60924001 23.36349165
+moving foward left at speed 64 to correct error_z=8 and angle 8.3635
+63
+p: -4.06802144 2.59631466 23.30940522
+moving foward left at speed 64 to correct error_z=8 and angle 8.3094
+63
+p: -3.82038363 2.60040238 23.36743522
+moving foward left at speed 64 to correct error_z=8 and angle 8.3674
+63
+p: -3.30665974 2.61934526 23.32809377
+moving foward left at speed 64 to correct error_z=8 and angle 8.3281
+63
+p: -2.60448614 2.68657100 23.43515537
+moving foward left at speed 64 to correct error_z=8 and angle 8.4352
+63
+p: -1.75990781 2.74453608 23.40429797
+moving foward left at speed 64 to correct error_z=8 and angle 8.4043
+64
+p: -0.97995640 2.78604317 23.42893199
+moving foward at speed 64 to correct error_z=8 and angle 8.4289
+p: -0.28657116 2.80096469 23.31150832
+moving foward at speed 64 to correct error_z=8 and angle 8.3115
+p: 0.28094109 2.80562850 23.26988766
+moving foward at speed 64 to correct error_z=8 and angle 8.2699
+p: 0.78241654 2.72570035 22.66069565
+moving foward at speed 63 to correct error_z=7 and angle 7.6607
+p: 1.20003089 2.65689637 22.16201071
+moving foward right at speed 63 to correct error_z=7 and angle 7.1620
+p: 1.53606996 2.60418785 21.57143039
+moving foward right at speed 63 to correct error_z=6 and angle 6.5714
+p: 1.85127919 2.70693911 22.16056217
+moving foward right at speed 63 to correct error_z=7 and angle 7.1606
+p: 2.06079393 2.80311441 22.68836221
+moving foward right at speed 63 to correct error_z=7 and angle 7.6884
+p: 2.18130252 2.87388192 23.29864413
+moving foward right at speed 64 to correct error_z=8 and angle 8.2986
+p: 2.18130252 2.87388192 23.29864413
+moving foward right at speed 64 to correct error_z=8 and angle 8.2986
+p: 2.16422052 2.86545513 23.31960784
+moving foward right at speed 64 to correct error_z=8 and angle 8.3196
+p: 2.15068597 2.86884597 23.29998461
+moving foward right at speed 64 to correct error_z=8 and angle 8.3000
+p: 2.16314178 2.86630363 23.31553715
+moving foward right at speed 64 to correct error_z=8 and angle 8.3155
+p: 2.17667633 2.86291279 23.33516037
+moving foward right at speed 64 to correct error_z=8 and angle 8.3352
+p: 2.18547749 2.86726976 23.34734876
+moving foward right at speed 64 to correct error_z=8 and angle 8.3473
+p: 2.18547749 2.86726976 23.34734876
+moving foward right at speed 64 to correct error_z=8 and angle 8.3473
+p: 2.18547749 2.86726976 23.34734876
+moving foward right at speed 64 to correct error_z=8 and angle 8.3473
+p: 2.17667633 2.86291279 23.33516037
+moving foward right at speed 64 to correct error_z=8 and angle 8.3352
+p: 2.16422052 2.86545513 23.31960784
+moving foward right at speed 64 to correct error_z=8 and angle 8.3196
+p: 2.15940045 2.89701023 23.32441789
+moving foward right at speed 64 to correct error_z=8 and angle 8.3244
+p: 2.17293500 2.89361938 23.34404111
+moving foward right at speed 64 to correct error_z=8 and angle 8.3440
+p: 2.17284832 2.91742666 23.35628599
+moving foward right at speed 64 to correct error_z=8 and angle 8.3563
+p: 2.23202234 2.88414181 23.29394123
+moving foward right at speed 64 to correct error_z=8 and angle 8.2939
+p: 2.43696145 2.87912004 23.24893256
+moving foward right at speed 64 to correct error_z=8 and angle 8.2489
+p: 2.84505014 2.83647774 23.09679377
+moving foward right at speed 64 to correct error_z=8 and angle 8.0968
+p: 3.43533398 2.84807767 22.98563188
+moving foward right at speed 63 to correct error_z=7 and angle 7.9856
+p: 4.17166423 2.87975750 22.83402376
+moving foward right at speed 63 to correct error_z=7 and angle 7.8340
+p: 4.95987565 2.91043456 22.65229612
+moving foward right at speed 63 to correct error_z=7 and angle 7.6523
+p: 5.75680517 2.95809192 22.50117043
+moving foward right at speed 63 to correct error_z=7 and angle 7.5012
+p: 6.44048812 2.99668505 22.38746946
+moving foward right at speed 63 to correct error_z=7 and angle 7.3875
+p: 7.08124156 3.07719305 22.46079102
+moving foward right at speed 63 to correct error_z=7 and angle 7.4608
+p: 7.59331588 3.12141764 22.43026056
+moving foward right at speed 63 to correct error_z=7 and angle 7.4303
+p: 8.04124236 3.16294235 22.39593283
+moving foward right at speed 63 to correct error_z=7 and angle 7.3959
+p: 8.36588736 3.17351198 22.28900728
+moving foward right at speed 63 to correct error_z=7 and angle 7.2890
+p: 8.61655747 3.18137258 22.28790951
+moving foward right at speed 63 to correct error_z=7 and angle 7.2879
+p: 8.74799042 3.18420940 22.28110445
+moving foward right at speed 63 to correct error_z=7 and angle 7.2811
+p: 8.79542368 3.18315462 22.29231430
+moving foward right at speed 63 to correct error_z=7 and angle 7.2923
+p: 8.78916826 3.18478259 22.28554827
+moving foward right at speed 63 to correct error_z=7 and angle 7.2855
+p: 8.78291284 3.18641056 22.27878224
+moving foward right at speed 63 to correct error_z=7 and angle 7.2788
+p: 8.77665742 3.18803853 22.27201621
+moving foward right at speed 63 to correct error_z=7 and angle 7.2720
+p: 8.78291284 3.18641056 22.27878224
+moving foward right at speed 63 to correct error_z=7 and angle 7.2788
+p: 8.78916826 3.18478259 22.28554827
+moving foward right at speed 63 to correct error_z=7 and angle 7.2855
+p: 8.79542368 3.18315462 22.29231430
+moving foward right at speed 63 to correct error_z=7 and angle 7.2923
+p: 8.79542368 3.18315462 22.29231430
+moving foward right at speed 63 to correct error_z=7 and angle 7.2923
+p: 8.79542368 3.18315462 22.29231430
+moving foward right at speed 63 to correct error_z=7 and angle 7.2923
+p: 8.79542368 3.18315462 22.29231430
+moving foward right at speed 63 to correct error_z=7 and angle 7.2923
+p: 8.79542368 3.18315462 22.29231430
+moving foward right at speed 63 to correct error_z=7 and angle 7.2923
+p: 8.79542368 3.18315462 22.29231430
+moving foward right at speed 63 to correct error_z=7 and angle 7.2923
+p: 8.78916826 3.18478259 22.28554827
+moving foward right at speed 63 to correct error_z=7 and angle 7.2855
+p: 8.77096268 3.18647479 22.27695007
+moving foward right at speed 63 to correct error_z=7 and angle 7.2770
+p: 8.76470726 3.18810276 22.27018404
+moving foward right at speed 63 to correct error_z=7 and angle 7.2702
+p: 8.76470726 3.18810276 22.27018404
+moving foward right at speed 63 to correct error_z=7 and angle 7.2702
+p: 8.83232673 3.21730037 22.35151171
+moving foward right at speed 63 to correct error_z=7 and angle 7.3515
+p: 9.07688215 3.25215904 22.41900513
+moving foward right at speed 63 to correct error_z=7 and angle 7.4190
+p: 9.63746275 3.30696569 22.62147490
+moving foward right at speed 63 to correct error_z=7 and angle 7.6215
+tracking lost
+tracking lost
+tracking lost
+tracking lost
+tracking lost
+tracking lost
+tracking lost
+tracking lost
+p: 10.50366610 3.63420990 23.61300506
+moving foward right at speed 64 to correct error_z=8 and angle 8.6130
+p: 11.23442706 3.98096601 24.72892377
+moving foward right at speed 64 to correct error_z=9 and angle 9.7289
+p: 11.49680156 4.18479319 25.32369126
+moving foward right at speed 65 to correct error_z=10 and angle 10.3237
+p: 11.40881611 4.08768859 25.06141308
+moving foward right at speed 65 to correct error_z=10 and angle 10.0614
+p: 11.41661726 4.10332350 25.09429680
+moving foward right at speed 65 to correct error_z=10 and angle 10.0943
+tracking lost
+tracking lost
+tracking lost
+tracking lost
+tracking lost
+tracking lost
+tracking lost
+tracking lost
+tracking lost
+tracking lost
+tracking lost
+tracking lost
+tracking lost
+tracking lost
+tracking lost
+tracking lost
+tracking lost
+tracking lost
+tracking lost
+tracking lost
+tracking lost
+tracking lost
+tracking lost
+tracking lost
+tracking lost
+tracking lost
+tracking lost
+tracking lost
+tracking lost
+tracking lost
+tracking lost
+tracking lost
+tracking lost
+p: 10.99307974 3.92465588 24.46267686
+moving foward right at speed 64 to correct error_z=9 and angle 9.4627
+p: 10.27947755 3.71506668 23.76225878
+moving foward right at speed 64 to correct error_z=8 and angle 8.7623
+p: 9.31093499 3.37935370 22.71611731
+moving foward right at speed 63 to correct error_z=7 and angle 7.7161
+p: 8.75041538 3.32728244 22.64417831
+moving foward right at speed 63 to correct error_z=7 and angle 7.6442
+p: 8.40438950 3.29967578 22.59462499
+moving foward right at speed 63 to correct error_z=7 and angle 7.5946
+p: 8.08817481 3.22458561 22.30945193
+moving foward right at speed 63 to correct error_z=7 and angle 7.3095
+p: 8.03930346 3.23523186 22.37109837
+moving foward right at speed 63 to correct error_z=7 and angle 7.3711
+p: 7.95496996 3.21249729 22.00482935
+moving foward right at speed 63 to correct error_z=7 and angle 7.0048
+p: 8.04171626 3.26654996 22.24538131
+moving foward right at speed 63 to correct error_z=7 and angle 7.2454
+p: 8.05104242 3.26819569 22.22148548
+moving foward right at speed 63 to correct error_z=7 and angle 7.2215
+p: 8.12920657 3.27726563 22.58307890
+moving foward right at speed 63 to correct error_z=7 and angle 7.5831
+p: 8.11218979 3.24530736 22.51164611
+moving foward right at speed 63 to correct error_z=7 and angle 7.5116
+p: 8.08092680 3.21366139 22.43431768
+moving foward right at speed 63 to correct error_z=7 and angle 7.4343
+p: 8.13962545 3.23998383 22.61732252
+moving foward right at speed 63 to correct error_z=7 and angle 7.6173
+p: 8.18930015 3.27221054 22.76810295
+moving foward right at speed 63 to correct error_z=7 and angle 7.7681
+p: 8.20020860 3.28343661 22.80102907
+moving foward right at speed 63 to correct error_z=7 and angle 7.8010
+p: 8.17277295 3.28876014 22.69535266
+moving foward right at speed 63 to correct error_z=7 and angle 7.6954
+p: 8.08333036 3.26454352 22.59809140
+moving foward right at speed 63 to correct error_z=7 and angle 7.5981
+p: 7.85078019 3.24387658 22.63993528
+moving foward right at speed 63 to correct error_z=7 and angle 7.6399
+p: 7.37579568 3.17883698 22.63994260
+moving foward right at speed 63 to correct error_z=7 and angle 7.6399
+p: 6.65268640 3.09434211 22.63921802
+moving foward right at speed 63 to correct error_z=7 and angle 7.6392
+p: 5.76224503 3.02380939 22.65304768
+moving foward right at speed 63 to correct error_z=7 and angle 7.6530
+p: 4.80548339 2.97225633 22.80514732
+moving foward right at speed 63 to correct error_z=7 and angle 7.8051
+p: 3.91493693 2.95002568 23.00356584
+moving foward right at speed 64 to correct error_z=8 and angle 8.0036
+p: 3.15154347 2.96063560 23.34936473
+moving foward right at speed 64 to correct error_z=8 and angle 8.3494
+p: 2.43218043 2.94424460 23.49189060
+moving foward right at speed 64 to correct error_z=8 and angle 8.4919
+p: 1.81565468 2.88314037 22.99508743
+moving foward right at speed 63 to correct error_z=7 and angle 7.9951
+p: 1.38276586 2.85778182 22.83580265
+moving foward right at speed 63 to correct error_z=7 and angle 7.8358
+p: 1.18243328 2.87274023 22.81748609
+moving foward right at speed 63 to correct error_z=7 and angle 7.8175
+p: 1.13557647 2.94013432 23.44708707
+moving foward right at speed 64 to correct error_z=8 and angle 8.4471
+p: 1.14393747 2.92342744 23.60139761
+moving foward right at speed 64 to correct error_z=8 and angle 8.6014
+p: 1.16411185 2.89837762 23.67717725
+moving foward right at speed 64 to correct error_z=8 and angle 8.6772
+p: 1.18091365 2.87937409 23.72259065
+moving foward right at speed 64 to correct error_z=8 and angle 8.7226
+p: 1.18091365 2.87937409 23.72259065
+moving foward right at speed 64 to correct error_z=8 and angle 8.7226
+p: 1.18091365 2.87937409 23.72259065
+moving foward right at speed 64 to correct error_z=8 and angle 8.7226
+p: 1.18091365 2.87937409 23.72259065
+moving foward right at speed 64 to correct error_z=8 and angle 8.7226
+p: 1.18091365 2.87937409 23.72259065
+moving foward right at speed 64 to correct error_z=8 and angle 8.7226
+p: 1.18091365 2.87937409 23.72259065
+moving foward right at speed 64 to correct error_z=8 and angle 8.7226
+p: 1.18091365 2.87937409 23.72259065
+moving foward right at speed 64 to correct error_z=8 and angle 8.7226
+p: 1.18091365 2.87937409 23.72259065
+moving foward right at speed 64 to correct error_z=8 and angle 8.7226
+p: 1.18091365 2.87937409 23.72259065
+moving foward right at speed 64 to correct error_z=8 and angle 8.7226
+p: 1.18091365 2.87937409 23.72259065
+moving foward right at speed 64 to correct error_z=8 and angle 8.7226
+p: 1.14878471 2.86244627 23.60348037
+moving foward right at speed 64 to correct error_z=8 and angle 8.6035
+p: 0.94887773 2.86494018 23.56075133
+moving foward at speed 64 to correct error_z=8 and angle 8.5608
+p: 0.47877793 2.84380887 23.44729365
+moving foward at speed 64 to correct error_z=8 and angle 8.4473
+p: -0.31145466 2.82867237 23.58018451
+moving foward at speed 64 to correct error_z=8 and angle 8.5802
+p: -1.26855201 2.78388139 23.58828611
+moving foward left at speed 64 to correct error_z=8 and angle 8.5883
+64
+p: -2.18334222 2.71380815 23.53748039
+moving foward left at speed 64 to correct error_z=8 and angle 8.5375
+63
+p: -2.98622192 2.66948698 23.41098888
+moving foward left at speed 64 to correct error_z=8 and angle 8.4110
+63
+p: -3.63440129 2.62333703 23.33664903
+moving foward left at speed 64 to correct error_z=8 and angle 8.3366
+63
+p: -4.18107367 2.61912801 23.35895079
+moving foward left at speed 64 to correct error_z=8 and angle 8.3590
+63
+p: -4.57011481 2.58934820 23.32287619
+moving foward left at speed 64 to correct error_z=8 and angle 8.3229
+62
+p: -4.79298191 2.58194637 23.26959953
+moving foward left at speed 64 to correct error_z=8 and angle 8.2696
+62
+p: -4.88836907 2.57243790 23.20933409
+moving foward left at speed 64 to correct error_z=8 and angle 8.2093
+62
+p: -4.91140851 2.56194359 23.13503491
+moving foward left at speed 64 to correct error_z=8 and angle 8.1350
+62
+p: -4.91374117 2.53520248 23.14403978
+moving foward left at speed 64 to correct error_z=8 and angle 8.1440
+62
+p: -4.92961194 2.51720277 23.16729642
+moving foward left at speed 64 to correct error_z=8 and angle 8.1673
+62
+p: -4.92793379 2.49933540 23.23541175
+moving foward left at speed 64 to correct error_z=8 and angle 8.2354
+62
+p: -4.93319400 2.48739838 23.23368146
+moving foward left at speed 64 to correct error_z=8 and angle 8.2337
+62
+p: -4.92601732 2.47579317 23.25768252
+moving foward left at speed 64 to correct error_z=8 and angle 8.2577
+62
+p: -4.91903226 2.47831670 23.21525137
+moving foward left at speed 64 to correct error_z=8 and angle 8.2153
+62
+p: -4.91903226 2.47831670 23.21525137
+moving foward left at speed 64 to correct error_z=8 and angle 8.2153
+62
+p: -4.91903226 2.47831670 23.21525137
+moving foward left at speed 64 to correct error_z=8 and angle 8.2153
+62
+p: -4.92601732 2.47579317 23.25768252
+moving foward left at speed 64 to correct error_z=8 and angle 8.2577
+62
+p: -4.95876228 2.54664370 23.43880184
+moving foward left at speed 64 to correct error_z=8 and angle 8.4388
+62
+p: -4.95350208 2.55858072 23.44053213
+moving foward left at speed 64 to correct error_z=8 and angle 8.4405
+62
+p: -4.94651702 2.56110425 23.39810099
+moving foward left at speed 64 to correct error_z=8 and angle 8.3981
+62
+p: -4.92712421 2.51007749 23.12434060
+moving foward left at speed 64 to correct error_z=8 and angle 8.1243
+62
+p: -5.10805448 2.53268444 23.04055967
+moving foward left at speed 64 to correct error_z=8 and angle 8.0406
+62
+p: -5.47551867 2.56217787 23.06735442
+moving foward left at speed 64 to correct error_z=8 and angle 8.0674
+62
+p: -5.99618356 2.55864374 23.05508108
+moving foward left at speed 64 to correct error_z=8 and angle 8.0551
+61
+p: -6.68121070 2.55826700 23.08972688
+moving foward left at speed 64 to correct error_z=8 and angle 8.0897
+61
+p: -7.56597318 2.55786258 23.14646595
+moving foward left at speed 64 to correct error_z=8 and angle 8.1465
+60
+p: -8.56221051 2.58498889 23.31643172
+moving foward left at speed 64 to correct error_z=8 and angle 8.3164
+60
+p: -9.51068509 2.59901689 23.50446770
+moving foward left at speed 64 to correct error_z=8 and angle 8.5045
+59
+p: -10.24485311 2.59170957 23.60986382
+moving foward left at speed 64 to correct error_z=8 and angle 8.6099
+58
+p: -10.88422791 2.57667359 23.73278823
+moving foward left at speed 64 to correct error_z=8 and angle 8.7328
+58
+p: -11.37149527 2.55932976 23.80965267
+moving foward left at speed 64 to correct error_z=8 and angle 8.8097
+58
+p: -11.69707734 2.56648188 23.87541454
+moving foward left at speed 64 to correct error_z=8 and angle 8.8754
+57
+p: -11.88361313 2.56359505 24.01514009
+moving foward left at speed 64 to correct error_z=9 and angle 9.0151
+57
+p: -11.68493117 2.53888125 23.69920261
+moving foward left at speed 64 to correct error_z=8 and angle 8.6992
+57
+p: -11.72855100 2.53404426 23.80659688
+moving foward left at speed 64 to correct error_z=8 and angle 8.8066
+57
+p: -11.69446664 2.51712518 23.75794413
+moving foward left at speed 64 to correct error_z=8 and angle 8.7579
+57
+p: -11.91879005 2.51956164 24.13543462
+moving foward left at speed 64 to correct error_z=9 and angle 9.1354
+57
+p: -11.91879005 2.51956164 24.13543462
+moving foward left at speed 64 to correct error_z=9 and angle 9.1354
+57
+p: -11.91879005 2.51956164 24.13543462
+moving foward left at speed 64 to correct error_z=9 and angle 9.1354
+57
+p: -11.94532098 2.53760793 24.17604096
+moving foward left at speed 64 to correct error_z=9 and angle 9.1760
+57
+p: -11.94532098 2.53760793 24.17604096
+moving foward left at speed 64 to correct error_z=9 and angle 9.1760
+57
+p: -11.97185192 2.55565421 24.21664730
+moving foward left at speed 64 to correct error_z=9 and angle 9.2166
+57
+p: -11.94532098 2.53760793 24.17604096
+moving foward left at speed 64 to correct error_z=9 and angle 9.1760
+57
+p: -11.91879005 2.51956164 24.13543462
+moving foward left at speed 64 to correct error_z=9 and angle 9.1354
+57
+p: -11.91879005 2.51956164 24.13543462
+moving foward left at speed 64 to correct error_z=9 and angle 9.1354
+57
+p: -11.94532098 2.53760793 24.17604096
+moving foward left at speed 64 to correct error_z=9 and angle 9.1760
+57
+p: -11.95084740 2.56111838 24.11270723
+moving foward left at speed 64 to correct error_z=9 and angle 9.1127
+57
+p: -12.07801577 2.56964605 24.03979096
+moving foward left at speed 64 to correct error_z=9 and angle 9.0398
+57
+p: -12.39409055 2.56073536 24.06458919
+moving foward left at speed 64 to correct error_z=9 and angle 9.0646
+57
+tracking lost
+tracking lost
+tracking lost
+p: -12.52027043 2.69783381 24.76470002
+moving foward left at speed 64 to correct error_z=9 and angle 9.7647
+57
+p: -12.80246086 2.83774179 25.57570427
+moving foward left at speed 65 to correct error_z=10 and angle 10.5757
+58
+p: -13.17453288 2.93739998 26.19128529
+moving foward left at speed 65 to correct error_z=11 and angle 11.1913
+58
+p: -14.16302089 2.94770539 26.54682910
+moving foward left at speed 65 to correct error_z=11 and angle 11.5468
+58
+p: -14.92298215 2.93934431 26.71406943
+moving foward left at speed 65 to correct error_z=11 and angle 11.7141
+57
+p: -15.45668654 3.01115638 27.01508261
+moving foward left at speed 66 to correct error_z=12 and angle 12.0151
+57
+p: -15.58487437 3.02084793 27.00476047
+moving foward left at speed 66 to correct error_z=12 and angle 12.0048
+57
+tracking lost
+p: -15.93918395 3.00676515 27.28996106
+moving foward left at speed 66 to correct error_z=12 and angle 12.2900
+57
+p: -16.24416123 2.97049965 27.54826610
+moving foward left at speed 66 to correct error_z=12 and angle 12.5483
+57
+p: -16.59976603 2.94604164 27.89788403
+moving foward left at speed 66 to correct error_z=12 and angle 12.8979
+57
+p: -16.61585032 2.94601438 27.91361860
+moving foward left at speed 66 to correct error_z=12 and angle 12.9136
+57
+tracking lost
+p: -16.64620120 2.94396040 27.97103824
+moving foward left at speed 66 to correct error_z=12 and angle 12.9710
+57
+p: -16.64620120 2.94396040 27.97103824
+moving foward left at speed 66 to correct error_z=12 and angle 12.9710
+57
+p: -16.66366664 2.94223596 28.02189191
+moving foward left at speed 66 to correct error_z=13 and angle 13.0219
+57
+p: -16.62279760 2.94347079 27.95633024
+moving foward left at speed 66 to correct error_z=12 and angle 12.9563
+57
+p: -16.58983734 2.87925664 27.90563325
+moving foward left at speed 66 to correct error_z=12 and angle 12.9056
+57
+p: -16.62536656 2.85686225 27.95554353
+moving foward left at speed 66 to correct error_z=12 and angle 12.9555
+57
+p: -16.61300072 2.82395666 27.90770274
+moving foward left at speed 66 to correct error_z=12 and angle 12.9077
+57
+p: -16.64406231 2.87511908 27.94254156
+moving foward left at speed 66 to correct error_z=12 and angle 12.9425
+57
+p: -16.62691106 2.89832324 27.91066636
+moving foward left at speed 66 to correct error_z=12 and angle 12.9107
+57
+p: -16.70609153 2.93135484 28.04140317
+moving foward left at speed 66 to correct error_z=13 and angle 13.0414
+57
+tracking lost
+p: -16.65512473 2.93300712 27.95684146
+moving foward left at speed 66 to correct error_z=12 and angle 12.9568
+57
+p: -16.60415793 2.93465939 27.87227975
+moving foward left at speed 66 to correct error_z=12 and angle 12.8723
+57
+p: -16.54562351 2.93576059 27.78841877
+moving foward left at speed 66 to correct error_z=12 and angle 12.7884
+57
+tracking lost
+p: -16.53734330 2.93453338 27.78938373
+moving foward left at speed 66 to correct error_z=12 and angle 12.7894
+57
+p: -16.52906309 2.93330617 27.79034869
+moving foward left at speed 66 to correct error_z=12 and angle 12.7903
+57
+tracking lost
+tracking lost
+tracking lost
+tracking lost
+tracking lost
+tracking lost
+tracking lost
+tracking lost
+tracking lost
+tracking lost
+tracking lost
+tracking lost
+tracking lost
+tracking lost
+tracking lost
+tracking lost
+tracking lost
+tracking lost
+tracking lost
+tracking lost
+tracking lost
+tracking lost
+tracking lost
+tracking lost
+tracking lost
+tracking lost
+tracking lost
+tracking lost
+tracking lost
+tracking lost
+tracking lost
+tracking lost
+tracking lost
+tracking lost
+tracking lost
+tracking lost
+tracking lost
+tracking lost
+tracking lost
+tracking lost
+tracking lost
+tracking lost
+tracking lost
+tracking lost
+tracking lost
+tracking lost
+tracking lost
+tracking lost
+tracking lost
+tracking lost
+tracking lost
+tracking lost
+tracking lost
+tracking lost
+tracking lost
+tracking lost
+tracking lost
+tracking lost
+tracking lost
+tracking lost
+tracking lost
+tracking lost
+tracking lost
+tracking lost
+tracking lost
+tracking lost
+tracking lost
+tracking lost
+tracking lost
+tracking lost
+tracking lost
+tracking lost
+tracking lost
+tracking lost
+tracking lost
+tracking lost
+tracking lost
+tracking lost
+tracking lost
+tracking lost
+Running statue: 0

@@ -7,12 +7,13 @@ previous = 0
 
 def runCar(left,right,previous,running,old):
 	if running == 1:
-		distance = GetFrontDist2()
-		print(distance)
+		print(GetFrontDist_side())
+		moveLeft(left,right, 50, 100)
 	else:
 		pass
 	if old == 1 and GPIO.input(BUTTON) == 0:
 		running = 1 - running
+		moveStop(left,right)
 	old = GPIO.input(BUTTON)
 
 	'''
