@@ -14,7 +14,7 @@ from port import *
 from motor import *
 from car import runCar
 DEBUG = False
-
+DEMO = False
 def load_calibrations(use_webcam = True):
     calibrationFile = "calibration.yaml"
     if use_webcam:
@@ -93,23 +93,23 @@ def med_filter(u_distance, raw_buffer, buffer_start, buffer_size):
 
 if __name__ == "__main__":    
     MARKER_DICT = aruco.DICT_4X4_50
-    PRINT_EDGE = 7.6 #marker edge size
+    PRINT_EDGE = 7 #marker edge size
     BUFFER_FILTER = 3
     RUNNING_BUFFER_SIZE = 5
     TRACKING_BUFFER_SIZE = 10
     AUTO_COUNTDOWN = 2*30 # in real time 60 frames takes about 5 seconds.
     TRACKING_IDS = [0, 1, 2, 3] # 0, front, 1 left, 2 back, 3 right.
-    TARGET_Z = 15
+    TARGET_Z = 17
     TARGET_Z_TOLERANCE = 3
     P_Z = 0.5
     TARGET_U = 10
     TARGET_U_TOLERANCE = 3
-    TOO_CLOSE = 7 # When it is fewer than 7 cm, we can trust ultrasonic sensor instead, because marker is too big to fit into the camera. Marker itself is 7.6cm.
-    START_MOTOR_THRESHOLD = 60
+    TOO_CLOSE = 10 # When it is fewer than 7 cm, we can trust ultrasonic sensor instead, because marker is too big to fit into the camera. Marker itself is 7.6cm.
+    START_MOTOR_THRESHOLD = 55
     MAX_SPEED = 100
     RESOLUTION = (320, 240)
     FPS = 30
-    
+    LOG = False 
     StopThresh = 6
     (left, right, running, old) = port_init()
 
@@ -130,7 +130,7 @@ if __name__ == "__main__":
  
     auto_countdown_counter = 0
     # load calibrations
-    camera_matrix, dist_coeffs = load_calibrations(USE_WEBCAM)
+    camera_matrix, dist_coeffs = load_calibrations(False)
     # get aruco info
     aruco_dict = aruco.Dictionary_get(MARKER_DICT)
     markerLength =  PRINT_EDGE  # Here, our measurement unit is centimetre.
@@ -149,7 +149,8 @@ if __name__ == "__main__":
 	    # get ultrasonic sensor reading.
             u_distance_0 = GetFrontDist2()
             #u_distance_0, raw_buffer_u, buffer_start_u = med_filter(u_distance_0, raw_buffer_u, buffer_start_u, BUFFER_FILTER)
-            print("u: %.8f"%u_distance_0)
+            if LOG:
+                print("u: %.8f"%u_distance_0)
             if u_distance_0 < TOO_CLOSE:
                 error_u = u_distance_0 - TARGET_U
                 if error_u < - TARGET_U_TOLERANCE:
@@ -184,7 +185,7 @@ if __name__ == "__main__":
                         rvec, tvec,_ = aruco.estimatePoseSingleMarkers(corners, markerLength, camera_matrix, dist_coeffs) # posture estimation from a single marker
                         
                         translation = np.array(tvec[0][found])
-                        if DEBUG:
+                        if LOG:
                             print("r: %.8f %.8f %.8f"%(translation[0], translation[1], translation[2]))
                         # treshold the values within 10cm distance change.
                         if started ==0 :
@@ -199,7 +200,7 @@ if __name__ == "__main__":
                         # use average filter
                         translation, raw_buffer_a, pred_buffer_a, buffer_start_a = avg_filter(translation, raw_buffer_a, pred_buffer_a, BUFFER_FILTER, buffer_start_a)
                         
-			if DEBUG:
+                        if LOG:
                             print("p: %.8f %.8f %.8f"%(translation[0], translation[1], translation[2]))
                         z_distance = translation[2]
                         
@@ -211,22 +212,27 @@ if __name__ == "__main__":
                         TARGET_X_TOLERANCE = 2
                         angle = math.atan(abs(x_distance)/abs(z_distance))
                         
-                        speed = min(MAX_SPEED, START_MOTOR_THRESHOLD + forward_speed)
+                        speed = min(MAX_SPEED, START_MOTOR_THRESHOLD + abs(forward_speed))
                         
-                        if (error_z > TARGET_Z_TOLERANCE and error_x <- TARGET_X_TOLERANCE):
-                            print ("moving foward left at speed %d to correct error_z=%d and angle %.4f"%(speed, error_z, error_z)) 
+                        if (error_z > TARGET_Z_TOLERANCE and error_x < - TARGET_X_TOLERANCE):
+                            if not DEMO:
+                                print ("moving foward left at speed %d to correct error_z=%d and error_x %.4f"%(speed, error_z, error_x)) 
                             moveLeft(left,right, START_MOTOR_THRESHOLD , MAX_SPEED)
                         elif (error_z > TARGET_Z_TOLERANCE and error_x >TARGET_X_TOLERANCE):
-                            print ("moving foward right at speed %d to correct error_z=%d and angle %.4f"%(speed, error_z, error_z)) 
+                            if not DEMO:
+                                print ("moving foward right at speed %d to correct error_z=%d and error_x %.4f"%(speed, error_z, error_x)) 
                             moveRight(left,right, MAX_SPEED , START_MOTOR_THRESHOLD)
                         elif error_z > TARGET_Z_TOLERANCE:
-                            print ("moving foward at speed %d to correct error_z=%d and angle %.4f"%(speed, error_z, error_z)) 
+                            if not DEMO:
+                                print ("moving foward at speed %d to correct error_z=%d and error_x %.4f"%(speed, error_z, error_x)) 
                             moveForward(left, right, speed)
                         elif error_z < - TARGET_Z_TOLERANCE:
-                            print ("moving backward at speed %d to correct error_z = %d"%(speed, error_z))
+                            if not DEMO:
+                                print ("moving backward at speed %d to correct error_z = %d"%(speed, error_z))
                             moveBackward(left, right, speed)
                         else:
-                            print("stop, tag: %d"%(tracked_id, ))
+                            if not DEMO:
+                                print("stop, tag: %d"%(tracked_id, ))
                             moveStop(left, right)
                            
                         # if we are tracking, we update states as follows
@@ -243,7 +249,8 @@ if __name__ == "__main__":
                     else:
                         if DEBUG:
                             imgWithAruco = img
-                        print("no markers within defined range is found lost")
+                        if not DEMO:
+                            print("no markers within defined range is found lost")
                         # if no markers within defined range is found, it's also tracking lost.
                         tracking_buffer, tracking_buffer_start = update_buffer(0, tracking_buffer, tracking_buffer_start, TRACKING_BUFFER_SIZE)
                         # if sum(tracking_buffer) < TRACKING_BUFFER_SIZE/2:
@@ -269,14 +276,15 @@ if __name__ == "__main__":
                         auto_countdown_counter -= 1
                         # autopilot
                         if sum(running_buffer) > RUNNING_BUFFER_SIZE/2:
-                            print("Auto forward")
+                            if not DEMO:
+                                print("Auto forward")
                             moveForward(left, right, START_MOTOR_THRESHOLD)
                             running_buffer, running_buffer_start = update_buffer(1, running_buffer, running_buffer_start, RUNNING_BUFFER_SIZE)
                         else:
                             moveStop(left, right)
                             running_buffer, running_buffer_start = update_buffer(0, running_buffer, running_buffer_start, RUNNING_BUFFER_SIZE)
-
-                    print("tracking lost")
+                    if not DEMO:
+                        print("tracking lost")
                     lost(True)
                 if DEBUG:
                     cv2.imshow("aruco", imgWithAruco)   # display
@@ -298,7 +306,8 @@ if __name__ == "__main__":
 
         if old == 1 and GPIO.input(BUTTON) == 0:
             running = 1 - running
-            print("Running statue: %d"%running)
+            if not DEMO:
+                print("Running statue: %d"%running)
             
         old = GPIO.input(BUTTON)
         
